@@ -1,0 +1,174 @@
+/*Navigation Bar*/
+
+a:active, a:link, a:visited {
+    color: #000080;
+}
+
+#header {
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+td:hover {
+    background-color: #FF8300;
+    
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+	font-family: Arial, serif;
+}
+
+a:hover {
+    color: #3B5323;
+}
+
+td {
+    width: 400px;
+    text-align: center;
+	background-color:#FFAABB;
+	border-radius: 15px;
+}
+
+
+#current{
+    background-color:#66CCCC;
+}
+
+.head{
+	color: #0000A0;
+	text-align:center;
+	font-family: Verdana, serif;
+	font-size:53px;
+}
+
+
+/*Background Page*/
+
+#skills{
+	border: 1px solid #000000;
+	font-family: Futura, serif;
+	color: #ffffff;
+	padding: 2px;
+	border-radius: 5px 5px;
+	background-color: #800080;
+	margin-right: 50px;
+}
+
+.app{
+	margin-top:-20px;
+	position: relative;
+	float: right;
+}
+
+.lang{
+	margin-top:-20px;
+	position: relative;
+	float: left;
+}
+
+#big{
+	font-size: 22px;
+}
+
+.left {
+	border-radius: 20px 20px;
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 50%;
+	height: 450px;
+	background-color: #90EE90;
+	margin-bottom: 10px;
+}
+
+#rightup {
+	border-radius: 20px 20px;
+	margin-top: 50px;
+	background-color: #CDC9C9;
+	margin-bottom: 10px;
+}
+
+.rightbottom {
+	border-radius: 20px 20px;
+	position: relative;
+	float: right;
+	margin-top: 10px;
+	width: 48%;
+	height: 320px;
+	background-color: #F4EBC3;
+	margin-bottom: 10px;
+}
+
+#classes {	
+	border: 2px solid #000000;
+	font-family: Futura, serif;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #cc0323
+}
+
+#tech{
+	margin-left: 10px;
+	font-family: Helvetica, serif;
+	font-size: 18px;
+	color: #800000
+}
+
+
+/*Home Page*/
+
+#mainpic {
+	height: 390px;
+	width: 300px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+	margin:auto;
+}
+
+
+/*Social Networks*/
+
+#button {
+	margin: auto;
+	height: 70px;
+	width: 70px;
+}
+
+#twitter{
+	height: 80px;
+	width: 80px;
+}
+
+
+/*Miscellaneous Style*/
+
+#lnk{
+	text-decoration: none;
+	color: #008000
+}
+
+#heyyy {
+  background-color: #fff;
+}
+
+ul{
+	list-style-type: none;
+	margin-left: 10px;
+	margin-right:40px;
+	margin-top:-16px;
+}
+
+
+
+#int {
+	text-align: center;
+	font-size: 22px;
+	color: #800000
+}
