@@ -14,8 +14,16 @@ a:active, a:link, a:visited {
 	position: relative;
 }
 
+#projects {
+	width: 300px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
 td:hover {
-    background-color: #FF8300;
+    /*background-color: #FF8300;*/
     
 }
 
@@ -32,7 +40,7 @@ a:hover {
 td {
     width: 400px;
     text-align: center;
-	background-color:#FFAABB;
+	/*background-color:#FFAABB;*/
 	border-radius: 15px;
 }
 
@@ -140,6 +148,19 @@ td {
 	height: 70px;
 	width: 70px;
 }
+
+#buttonFront {
+	margin: auto;
+	height: 140px;
+	width: 140px;
+}
+
+#twitterFront{
+	height: 160px;
+	width: 160px;
+}
+
+
 
 #twitter{
 	height: 80px;
