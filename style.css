@@ -37,6 +37,8 @@ a:hover {
     color: #3B5323;
 }
 
+
+
 td {
     width: 400px;
     text-align: center;
@@ -189,6 +191,8 @@ ul{
 
 
 #int {
+	padding-left: 50px;
+	padding-right: 50px;
 	text-align: center;
 	font-size: 18px;
 	color: #800000
