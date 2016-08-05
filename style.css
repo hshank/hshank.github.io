@@ -4,6 +4,42 @@ a:active, a:link, a:visited {
     color: #000080;
 }
 
+.whitee {
+	background-color: white;
+}
+
+
+.letss {
+	background-image: url("http://www.ssn.tv/wp-content/uploads/2014/07/NYC-1.jpg");
+
+    height: 600px;
+      display: block;
+      width: 100%;
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center center;
+      position: relative;
+
+
+}
+
+
+.lets {
+	background-image: url("http://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg");
+
+
+    height: 600px;
+      display: block;
+      width: 100%;
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center center;
+      position: relative;
+
+
+}
+
+
 #header {
 	top: -10px;
 	background-color: #3c4543;
