@@ -33,6 +33,21 @@ a:active, a:link, a:visited {
 
 
 }
+.bharog {
+		background-image: url("https://raw.githubusercontent.com/akuchibotla/bharogbaneri/master/assets/bg.jpg");
+
+    height: 600px;
+      display: block;
+      width: 100%;
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center center;
+      position: relative;
+}
+
+
+
+
 
 
 .lets {
