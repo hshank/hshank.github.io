@@ -8,6 +8,17 @@ a:active, a:link, a:visited {
 	background-color: white;
 }
 
+#heyyy {
+  background-color: #4a96ad;
+}
+
+#top {
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	font-size: 18px;
+	color:white;
+}
 
 .letss {
 	background-image: url("http://www.ssn.tv/wp-content/uploads/2014/07/NYC-1.jpg");
@@ -174,7 +185,8 @@ td {
 #mainpic {
 	height: 390px;
 	width: 300px;
-	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
+	box-shadow: 10px 10px 5px #ffffff;
 	margin:auto;
 }
 
@@ -213,9 +225,6 @@ td {
 	color: #008000
 }
 
-#heyyy {
-  background-color: #fff;
-}
 
 ul{
 	list-style-type: none;
@@ -231,5 +240,5 @@ ul{
 	padding-right: 50px;
 	text-align: center;
 	font-size: 18px;
-	color: #800000
+	color: #4a96ad
 }
