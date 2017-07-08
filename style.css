@@ -41,6 +41,16 @@ a:active, a:link, a:visited {
       position: relative;
 }
 
+.newYorkImage {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1G7rTPdYRd9ZX2cC19zqvxFaNnBqoIXJAs-C9A-OAT-P6agk");
+    height: 250px;
+      display: block;
+      width: 100%;
+      background-attachment: fixed;
+      background-position: center center;
+      position: relative;
+}
+
 #header {
 	top: -10px;
 	background-color: #3c4543;
